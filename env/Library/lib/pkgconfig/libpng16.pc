@@ -1,0 +1,12 @@
+prefix=C:/Users/nmham/Desktop/project/env/Library
+exec_prefix=C:/Users/nmham/Desktop/project/env/Library
+libdir=C:/Users/nmham/Desktop/project/env/Library/lib
+includedir=C:/Users/nmham/Desktop/project/env/Library/include/libpng16
+
+Name: libpng
+Description: Loads and saves PNG files
+Version: 1.6.39
+Requires.private: zlib
+Libs: -L${libdir} -lpng16
+Libs.private: -lz
+Cflags: -I${includedir}

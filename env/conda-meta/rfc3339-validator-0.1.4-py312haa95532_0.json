@@ -1,0 +1,123 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "six"
+  ],
+  "extracted_package_dir": "C:\\Users\\nmham\\anaconda3\\pkgs\\rfc3339-validator-0.1.4-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/__pycache__/rfc3339_validator.cpython-312.pyc",
+    "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/AUTHORS.rst",
+    "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/INSTALLER",
+    "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/LICENSE",
+    "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/METADATA",
+    "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/RECORD",
+    "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/REQUESTED",
+    "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/WHEEL",
+    "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/direct_url.json",
+    "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/top_level.txt",
+    "Lib/site-packages/rfc3339_validator.py",
+    ".nonadmin"
+  ],
+  "fn": "rfc3339-validator-0.1.4-py312haa95532_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\nmham\\anaconda3\\pkgs\\rfc3339-validator-0.1.4-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "7337fb2dff924d01397c66823f24a70e",
+  "name": "rfc3339-validator",
+  "package_tarball_full_path": "C:\\Users\\nmham\\anaconda3\\pkgs\\rfc3339-validator-0.1.4-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/rfc3339_validator.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "ddf738a12ffa56de081f1f922b3cc28e313d7b220c300019bab1b42b5f2ef733",
+        "sha256_in_prefix": "ddf738a12ffa56de081f1f922b3cc28e313d7b220c300019bab1b42b5f2ef733",
+        "size_in_bytes": 1510
+      },
+      {
+        "_path": "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/AUTHORS.rst",
+        "path_type": "hardlink",
+        "sha256": "42ec0c4be6eb89016e3c756660ff474d2924225d0723c82720285ede0a46e5f3",
+        "sha256_in_prefix": "42ec0c4be6eb89016e3c756660ff474d2924225d0723c82720285ede0a46e5f3",
+        "size_in_bytes": 162
+      },
+      {
+        "_path": "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "5ba1a4f03626ccca6dcbf53a554545e4f776a335bfdaa233ec3bfe9bb7fac15d",
+        "sha256_in_prefix": "5ba1a4f03626ccca6dcbf53a554545e4f776a335bfdaa233ec3bfe9bb7fac15d",
+        "size_in_bytes": 1074
+      },
+      {
+        "_path": "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "f2bbf06489cfc3d232b9e763aab58649fd3f4a1bc548b8771f42bb8c902586d3",
+        "sha256_in_prefix": "f2bbf06489cfc3d232b9e763aab58649fd3f4a1bc548b8771f42bb8c902586d3",
+        "size_in_bytes": 1615
+      },
+      {
+        "_path": "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "4e7dee6fd62494b0c314e92627c6302c9aef87261bd9913b004b800002a4d8b0",
+        "sha256_in_prefix": "4e7dee6fd62494b0c314e92627c6302c9aef87261bd9913b004b800002a4d8b0",
+        "size_in_bytes": 973
+      },
+      {
+        "_path": "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "89896fe5f5f7e7b3d0c914f6a3ab70d5b37e61c2851472aa07f2f01cee703fe8",
+        "sha256_in_prefix": "89896fe5f5f7e7b3d0c914f6a3ab70d5b37e61c2851472aa07f2f01cee703fe8",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "8165a072b63d071af1a0a7e913591f7f6b34f1e1a7d82c3ee5093bf72ab3d936",
+        "sha256_in_prefix": "8165a072b63d071af1a0a7e913591f7f6b34f1e1a7d82c3ee5093bf72ab3d936",
+        "size_in_bytes": 125
+      },
+      {
+        "_path": "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "f9907095b1d1543c413f1e70b4154500e1c7224b439256be4384314115309d1d",
+        "sha256_in_prefix": "f9907095b1d1543c413f1e70b4154500e1c7224b439256be4384314115309d1d",
+        "size_in_bytes": 18
+      },
+      {
+        "_path": "Lib/site-packages/rfc3339_validator.py",
+        "path_type": "hardlink",
+        "sha256": "c220cb9495da5215a53ab173f695060294df2d1042a9cbaaf0cc622bcba09d6e",
+        "sha256_in_prefix": "c220cb9495da5215a53ab173f695060294df2d1042a9cbaaf0cc622bcba09d6e",
+        "size_in_bytes": 1110
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "fc76f9c8edc5b8f5b1046c92c4d634099bc64cfd5f26a9ef2407e0eb6dfce9fb",
+  "size": 9906,
+  "subdir": "win-64",
+  "timestamp": 1699543946000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/rfc3339-validator-0.1.4-py312haa95532_0.conda",
+  "version": "0.1.4"
+}
